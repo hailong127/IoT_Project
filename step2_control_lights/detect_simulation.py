@@ -207,3 +207,4 @@ if __name__ == "__main__":
     model_path = "./models/model_05-12 06_33_NeuralNetwork_last"
     light = LightGesture(model_path, device=False)
     light.run()
+
